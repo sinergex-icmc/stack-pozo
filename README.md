@@ -8,4 +8,4 @@ La lectura del parámetro se realiza con una sonda Milesight EM500-UDL situada a
 En PostgreSQL se ha creado una vista no materializada para un usuario con derechos 'SELECT'.  
 En Grafana se ha configurado el acceso a esta base de datos y los paneles relacionados con la sonda de pozo utilizan las vistas creadas.  
 
-
+![Sinergex pozo Dashboard image](sngx_dash_pozo.png)
